@@ -69,7 +69,7 @@ Tienes **1 hora** para completar este desafío técnico. Tu objetivo es crear un
 
 ```bash
 # Clonar el repositorio base (se proporcionará)
-git clone [repositorio-base]
+git clone https://github.com/kevotovar/radar-frontend-challenge
 
 # Instalar dependencias
 npm install # o yarn install o bun install
